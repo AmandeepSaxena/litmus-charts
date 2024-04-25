@@ -26,9 +26,6 @@ spec:
       email: karthik.s@harness.io
   experiments:
     - custom-pod-delete
-    - podtato-head
-    - sock-shop
-    - sock-shop-promProbe
   minKubeVersion: 1.12.0
   labels:
     app.kubernetes.io/component: chartserviceversion
